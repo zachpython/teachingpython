@@ -1,13 +1,19 @@
 # teachingpython
 Learn python with me. 
 
-FREE Python Training Orientation 
+This is your assignment before our first class.
 
-5/19/21: 3:30 PM Central I want to get a headcount to who is interested in these classes. 
+https://www.youtube.com/watch?v=1F_OgqRuSdI&list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW
 
-Everybody is busy, I doubt it will be 30 minutes, I hope to end it in 15 minutes. 
+Work on as much of it as possible. Everybody's skillset and availability is going to be different. When we meet on Wednesday we'll help each other out. Remember, you are going to want to quit but just hang in there, you'll get better as time goes on. Unless you want to eat grasshoppers. 
 
-https://us04web.zoom.us/j/77414576861?pwd=Vkt0TFRFNWgyaTg1NXp2cS9nTER0Zz09
+Too easy? Then work on your touch typing. Here's a helpful video to help you type faster:
+https://www.youtube.com/watch?v=1ArVtCQqQRE&t=77s 
 
-Meeting ID: 774 1457 6861
-Passcode: Df4ZnP
+Login credentials: 
+Join Zoom Meeting
+May 26, 2021 03:30 PM Central Time (US and Canada)
+https://us04web.zoom.us/j/75371286130?pwd=VVZyazQreityZ1BraStyOXEvRVI4UT09
+
+Meeting ID: 753 7128 6130
+Passcode: K92xCF
