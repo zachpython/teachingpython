@@ -1,6 +1,9 @@
 # teachingpython
 Learn python with me. 
 
+Please read the wiki to understand this program better
+https://github.com/zachpython/teachingpython/wiki
+
 This is your assignment before our first class.
 
 https://www.youtube.com/watch?v=1F_OgqRuSdI&list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW
